@@ -1,7 +1,12 @@
 import "./App.css";
+import Fetch from "./Fetch";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Fetch />
+    </>
+  );
 }
 
 export default App;
